@@ -196,7 +196,9 @@
     .dan{
         height: 100vh;
     }
-    
+    .dan2{
+        width: 30em;
+    }
     
 }
 /* @media only screen and (max-width: 550px){  
