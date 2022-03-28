@@ -131,7 +131,7 @@
     transition: transform 80ms ease-in;
 }
 .button1:active{
-    transform: scale(0.70);
+    transform: scale(0.95);
 }
 .button2{
     color: white;
@@ -144,7 +144,7 @@
     transition: transform 80ms ease-in;
 }
 .button2:active{
-    transform: scale(0.70);
+    transform: scale(0.95);
 }
 .svg33{
     display: none;
