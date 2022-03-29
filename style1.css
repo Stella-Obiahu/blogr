@@ -146,6 +146,9 @@
 .button2:active{
     transform: scale(0.95);
 }
+.loginsignup{
+    display: none;
+}
 .svg33{
     display: none;
 }
@@ -167,6 +170,15 @@
         width: 23em;
         padding: 0;
         margin: 0 3em;
+    }
+    .loginsignup2{
+        display: none;
+    }
+    .loginsignup{
+        display: inline;
+        width: 16vw;
+        height: 4vh;
+        margin-bottom: .1em;
     }
     .bgimage{
         width: 30em;   
