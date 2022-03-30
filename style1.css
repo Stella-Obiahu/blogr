@@ -156,6 +156,9 @@
     display: none;
 }
 @media only screen and (max-width: 500px){
+    .body{
+        width: 30em;
+    }
     .kamkam3{
         width: 23em;
         padding: 0;
